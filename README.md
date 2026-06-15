@@ -111,8 +111,8 @@ Ridge/RF/MLP · LSTM encoder–decoder & Transformer · recursive full-curve for
 
 1. Severson et al. (2019). *Data-driven prediction of battery cycle life before capacity degradation.* **Nature Energy** 4, 383–391.
 2. Pham et al. (2022). *A Multitask Data-Driven Model for Battery RUL Prediction* (Conv2DLSTM + multitask).
-3. Nicolae et al. (2025). *Optimizing Cycle Life Prediction via a Physics-Informed Model.* arXiv:2404.17174.
-4. Singh et al. (2021). *Data Driven Prediction of Battery Cycle Life Before Capacity Degradation.* arXiv:2110.09687.
+3. SolitarySeeker. “Lithium-ion battery cycle life time-series dataset”, Accessed: Jun. 15, 2026.
+[Online]. Available: https://www.kaggle.com/datasets/solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset.
 
 ---
 
