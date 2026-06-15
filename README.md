@@ -25,7 +25,7 @@ An empirical study on the standard **Severson/Attia dataset (MIT–Stanford, *Na
 
 ---
 
-## 🏆 Key results
+##  Key results
 
 ### Problem A — Early prediction (R² vs. number of early cycles, repeated CV)
 
@@ -33,7 +33,7 @@ An empirical study on the standard **Severson/Attia dataset (MIT–Stanford, *Na
 |---|---|---|---|---|
 | **XGBoost** | 0.634 | 0.702 | **0.706** | **16.1%** |
 | RandomForest | 0.629 | 0.670 | 0.669 | 17.4% |
-| ElasticNet | 0.518 | 0.704 | 0.208 ⚠️ | 18.0% |
+| ElasticNet | 0.518 | 0.704 | 0.208  | 18.0% |
 
 -  Cycle life **is predictable** from early cycles (XGBoost R²≈0.71).
 -  Accuracy **jumps sharply 20→50 cycles, then plateaus** → ~50 cycles already carry most of the signal.
@@ -58,7 +58,7 @@ An empirical study on the standard **Severson/Attia dataset (MIT–Stanford, *Na
 
 ---
 
-## 📂 Structure
+##  Structure
 
 ```
 .
@@ -74,7 +74,7 @@ Ridge/RF/MLP · LSTM encoder–decoder & Transformer · recursive full-curve for
 
 ---
 
-## ▶️ How to run (Kaggle)
+##  How to run (Kaggle)
 
 1. **New Notebook** → right panel **Add Input** → search for
    `solitaryseeker/lithium-ion-battery-cycle-life-time-series-dataset` → **Add**.
